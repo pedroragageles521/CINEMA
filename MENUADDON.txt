@@ -29,4 +29,18 @@
 <fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CATEGORIA DOCUMENTARIOS[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]EXCLUSIVO NOVELAS[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+</channel>
+
 </channels>
