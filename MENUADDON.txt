@@ -22,4 +22,11 @@
 <fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
 </channel>
 
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]CATEGORIA TERROR[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>#</externallink>
+<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
+</channel>
+
 </channels>
